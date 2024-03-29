@@ -1,5 +1,5 @@
 # Chatbot_using_LLM_and_RAG
-### Creating a chatbot for a dataset using LLM and RAG technique
+### Creating chatbot for a dataset using LLM and RAG technique
 
 The main idea of this project is to use a LLM to develop a chatbot for a particular dataset and then integrate RAG(Retrieval-Augmented Generation) technique.
 
