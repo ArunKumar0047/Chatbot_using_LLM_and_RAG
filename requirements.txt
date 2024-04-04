@@ -1,0 +1,8 @@
+os
+dotenv
+langchain
+chroma
+sentence-transformer
+openai
+langchain_core
+streamlit
