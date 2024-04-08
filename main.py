@@ -23,8 +23,8 @@ vectorstore = initialize_vectorstore(persist_directory="path/to/persist/director
 chatbot = Chatbot(vectorstore)
 
 # Streamlit UI
-st.set_page_config(page_title="Chatbot for the Airline Dataset")
-st.title("Chatbot for the Airline Dataset")
+st.set_page_config(page_title="Chatbot for a custom dataset")
+st.title("Chatbot")
 
 # Get user input
 user_query = st.text_area("Enter your query:")
